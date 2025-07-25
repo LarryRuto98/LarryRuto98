@@ -38,7 +38,25 @@ Welcome to my GitHub! I'm a passionate software developer with a strong foundati
 ## 📂 Featured Projects
 
 ### 🔗 [Wellhall Hotel Website - Live Demo](#) | [https://github.com/Fred-riQ/WellHole](#)
-_A full-stack MERN/Flask + React app for [brief description]. Features authentication, REST API, and responsive UI._
+
+A full-stack web application that allows users to browse, filter, and book hotel rooms based on availability and room type (e.g., standard, deluxe, suite). The system includes user registration and login, room management for admins, and secure room reservation functionality. It integrates the M-Pesa payment gateway for seamless mobile payments, ensuring real-time booking confirmation upon successful transaction.
+
+Tech Stack: Python, Flask, SQLite, JavaScript, React, HTML/CSS, M-Pesa API, Git
+
+Key Features:
+
+User authentication (sign up, log in)
+
+Room listing with categories and real-time availability
+
+Booking form with dynamic room selection
+
+M-Pesa integration for payments
+
+Admin panel to manage rooms and bookings
+
+Responsive UI for both desktop and mobile devices
+
 
 
 
