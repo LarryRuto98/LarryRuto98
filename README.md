@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate software developer with a strong foundati
 
 ## 📂 Featured Projects
 
-### 🔗 [Wellhall Hotel Website - Live Demo](#) | [https://github.com/Fred-riQ/WellHole](#)
+### 🔗 [Wellhall Hotel Website - Live Demo](#) | https://github.com/Fred-riQ/WellHole
 
 A full-stack web application that allows users to browse, filter, and book hotel rooms based on availability and room type (e.g., standard, deluxe, suite). The system includes user registration and login, room management for admins, and secure room reservation functionality. It integrates the M-Pesa payment gateway for seamless mobile payments, ensuring real-time booking confirmation upon successful transaction.
 
